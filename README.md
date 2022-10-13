@@ -1,6 +1,6 @@
 # PolishNotation
 
-A simple Polish Notation application that consists of 2 stages:
+A simple Polish Notation application (using a stack) that consists of 2 stages:
 
 **1- To transform an Infix Algebraic expression into postfix expression**
 ![polish1](https://user-images.githubusercontent.com/55024895/195382730-d845db47-6470-4ec2-8c99-a81628420c7d.PNG)
