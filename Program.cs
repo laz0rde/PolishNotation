@@ -76,7 +76,6 @@ namespace PolishNotationV1
             {
                 if (IsDigit(c))
                 {
-                    //postfix += c;
                     help += c;
                 }else
                 {
